@@ -1,2 +1,2 @@
 # nc
-https://the-developer-nate.github.io/nc/cookies.html
+https://the-developer-nate.github.io/nc/page1.html
